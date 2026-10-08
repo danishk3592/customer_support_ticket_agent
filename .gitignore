@@ -1,0 +1,11 @@
+.env
+.venv*/
+__pycache__/
+.pytest_cache/
+.data/
+*.pyc
+.DS_Store
+
+# Voice/model caches
+.voice_cache/
+/test_voice.mp3
